@@ -1,6 +1,16 @@
-# hello-world
-Thank u，because of u，fire burning this hell：）
--- 我的歌单真好听 --
-== 试试高亮==
--暂时学会了这么多
---byebye
+# Talk to myself
+
+和这个世界保持联系
+
+## 2022 reading＆watching list
+
+1. Friends
+2. halfboy侦探事务所
+3. HP原著
+4. 博弈论
+
+
+
+
+
+
